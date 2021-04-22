@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+## Szia!
 
-You can use the [editor on GitHub](https://github.com/Carl-bot-dc/bot/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Ez a Carl [Discord] (https://discord.com) Bot. [Behívhatod] (https://discord.com/oauth2/authorize?client_id=781172469603893309&scope=bot+applications.commands+identify+guilds&response_type=code&permissions=2080374975) ha akarod! 😄 
+Ez az offisől weboldal. 🤯
+Ezt TutiCraft fejleszti. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Nézd meg vannak még weboldalak.
+Vagy itt van a Frissítési Napló.
 
-### Markdown
+### Frissítési Napló
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+--
 
 ```markdown
-Syntax highlighted code block
+-
 
-# Header 1
-## Header 2
-### Header 3
+# -
+## -
+### -
 
-- Bulleted
-- List
+-
+-
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+-
+-
+  
+**Paraméterek:** 
+ _-=semmi_ 
+ _<példa> - kötelező_
+ _(példa) - opciónális_
+ 
 
-[Link](url) and ![Image](src)
+
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Carl-bot-dc/bot/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+FEJLESZTÉS ALATT
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Support
+Fejlesztés alatt
